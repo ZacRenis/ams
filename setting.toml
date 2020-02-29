@@ -3,11 +3,12 @@ host = "localhost"
 port = 80
 
 [database]
+database_type = "mysql"
 host = "localhost"
-name = "postgres"
-user = "postgres"
-password = "renzhichao"
-port = 5432
+name = "ams"
+user = "ams"
+password = "ams_client"
+port = 3306
 
 [oss]
 access_key_id = ""
