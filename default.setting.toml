@@ -1,0 +1,7 @@
+[database.postgres]
+DATABASE_URL="postgres://postgres:renzhichao@localhost/ams"
+
+[database.mysql]
+
+[host]
+IP="localhost"
